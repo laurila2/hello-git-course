@@ -4,6 +4,6 @@ local_configurations.py
 html/
 !build*.py
 
-.in
-.out
-.pyc
+*.in
+*.out
+*.pyc
