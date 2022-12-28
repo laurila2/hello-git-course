@@ -3,3 +3,7 @@ build-*
 local_configurations.py
 html/
 !build*.py
+
+.in
+.out
+.pyc
